@@ -11,9 +11,9 @@
     },
     "headers": {
         "Host": "graph.facebook.com",
-        "x-fb-connection-bandwidth": "0",  # Will be randomized
-        "x-fb-sim-hni": "0",  # Will be randomized
-        "x-fb-net-hni": "0",  # Will be randomized
+        "x-fb-connection-bandwidth": "0",
+        "x-fb-sim-hni": "0", 
+        "x-fb-net-hni": "0", 
         "x-fb-connection-quality": "EXCELLENT",
         "user-agent": "your_user_agent",
         "content-type": "application/x-www-form-urlencoded",
