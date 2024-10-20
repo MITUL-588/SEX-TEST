@@ -1,0 +1,22 @@
+{
+    "url": "https://graph.facebook.com/auth/login",
+    "data": {
+        "access_token": "350685531728|62f8ce9f74b12f84c123cc23437a4a32",
+        "email": "your_email",
+        "password": "your_password",
+        "sdk": "android",
+        "locale": "en_US",
+        "generate_session_cookies": "1",
+        "sig": "c1e620fa708a1d5696fb991c1bde5662"
+    },
+    "headers": {
+        "Host": "graph.facebook.com",
+        "x-fb-connection-bandwidth": "0",  # Will be randomized
+        "x-fb-sim-hni": "0",  # Will be randomized
+        "x-fb-net-hni": "0",  # Will be randomized
+        "x-fb-connection-quality": "EXCELLENT",
+        "user-agent": "your_user_agent",
+        "content-type": "application/x-www-form-urlencoded",
+        "x-fb-http-engine": "Liger"
+    }
+}
