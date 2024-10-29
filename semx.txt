@@ -1,0 +1,6 @@
+vai=brother
+bon=sister
+baba=father
+ma=mother
+ex=snake
+bou=wife
